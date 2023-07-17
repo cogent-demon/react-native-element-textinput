@@ -498,6 +498,4 @@ or
     placeholderStyle: { fontSize: 16 },
     textErrorStyle: { fontSize: 16 },
   });
-```
-
-[<img src="https://github.com/hoaphantn7604/file-upload/blob/master/document/profile/hoa_phan_dev_banner.png">](https://www.youtube.com/channel/UCemCdKGzUgbfsLeGFOvbVEw?sub_confirmation=1)
+``'
